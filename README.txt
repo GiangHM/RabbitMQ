@@ -1,0 +1,1 @@
+- There are examples so that I learn RabbitMQ

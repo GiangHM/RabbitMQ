@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LSH946\\source\\repos\\RabbitMQ\\Send\\Send.csproj": {}
+    "C:\\Users\\LSH946\\source\\repos\\RabbitMQ\\HelloWord\\Send\\Send.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LSH946\\source\\repos\\RabbitMQ\\Send\\Send.csproj": {
+    "C:\\Users\\LSH946\\source\\repos\\RabbitMQ\\HelloWord\\Send\\Send.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LSH946\\source\\repos\\RabbitMQ\\Send\\Send.csproj",
+        "projectUniqueName": "C:\\Users\\LSH946\\source\\repos\\RabbitMQ\\HelloWord\\Send\\Send.csproj",
         "projectName": "Send",
-        "projectPath": "C:\\Users\\LSH946\\source\\repos\\RabbitMQ\\Send\\Send.csproj",
+        "projectPath": "C:\\Users\\LSH946\\source\\repos\\RabbitMQ\\HelloWord\\Send\\Send.csproj",
         "packagesPath": "C:\\Users\\LSH946\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LSH946\\source\\repos\\RabbitMQ\\Send\\obj\\",
+        "outputPath": "C:\\Users\\LSH946\\source\\repos\\RabbitMQ\\HelloWord\\Send\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

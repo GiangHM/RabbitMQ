@@ -1,6 +1,7 @@
 ﻿using System;
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
+using System.Text;
 
 namespace ReceiveLogs
 {
@@ -21,7 +22,16 @@ namespace ReceiveLogs
                 channel.QueueBind(queue: queueName, exchange: "logs", routingKey: "");
                 Console.WriteLine("[*] waiting for logs");
                 var consumer = new EventingBasicConsumer(channel);
-                //cosum
+                consumer.Received += (model, ea) =>
+                {
+                    var body = ea.Body;
+                    var message = Encoding.UTF8.GetString(body);
+                    Console.WriteLine(" [x] {0}", message);
+                };
+                channel.BasicConsume(queue: queueName, autoAck: true, consumer: consumer);
+
+                Console.WriteLine(" Press [enter] to exit.");
+                Console.ReadLine();
             }
         }
     }
