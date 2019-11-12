@@ -1,0 +1,13 @@
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\bin\Debug\netcoreapp3.0\Worker.exe
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\bin\Debug\netcoreapp3.0\Worker.deps.json
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\bin\Debug\netcoreapp3.0\Worker.runtimeconfig.json
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\bin\Debug\netcoreapp3.0\Worker.runtimeconfig.dev.json
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\bin\Debug\netcoreapp3.0\Worker.dll
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\bin\Debug\netcoreapp3.0\Worker.pdb
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\obj\Debug\netcoreapp3.0\Worker.csprojAssemblyReference.cache
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\obj\Debug\netcoreapp3.0\Worker.AssemblyInfoInputs.cache
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\obj\Debug\netcoreapp3.0\Worker.AssemblyInfo.cs
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\obj\Debug\netcoreapp3.0\Worker.csproj.CopyComplete
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\obj\Debug\netcoreapp3.0\Worker.dll
+C:\Users\LSH946\source\repos\RabbitMQ\WorkQueues\Worker\obj\Debug\netcoreapp3.0\Worker.pdb

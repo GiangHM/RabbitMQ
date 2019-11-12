@@ -1,0 +1,13 @@
+C:\Users\LSH946\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.0\Send.exe
+C:\Users\LSH946\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.0\Send.deps.json
+C:\Users\LSH946\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.0\Send.runtimeconfig.json
+C:\Users\LSH946\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.0\Send.runtimeconfig.dev.json
+C:\Users\LSH946\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.0\Send.dll
+C:\Users\LSH946\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.0\Send.pdb
+C:\Users\LSH946\source\repos\RabbitMQ\Send\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\LSH946\source\repos\RabbitMQ\Send\obj\Debug\netcoreapp3.0\Send.csprojAssemblyReference.cache
+C:\Users\LSH946\source\repos\RabbitMQ\Send\obj\Debug\netcoreapp3.0\Send.AssemblyInfoInputs.cache
+C:\Users\LSH946\source\repos\RabbitMQ\Send\obj\Debug\netcoreapp3.0\Send.AssemblyInfo.cs
+C:\Users\LSH946\source\repos\RabbitMQ\Send\obj\Debug\netcoreapp3.0\Send.csproj.CopyComplete
+C:\Users\LSH946\source\repos\RabbitMQ\Send\obj\Debug\netcoreapp3.0\Send.dll
+C:\Users\LSH946\source\repos\RabbitMQ\Send\obj\Debug\netcoreapp3.0\Send.pdb

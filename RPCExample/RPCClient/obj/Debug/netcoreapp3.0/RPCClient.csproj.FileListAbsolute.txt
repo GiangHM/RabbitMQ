@@ -1,0 +1,13 @@
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\bin\Debug\netcoreapp3.0\RPCClient.exe
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\bin\Debug\netcoreapp3.0\RPCClient.deps.json
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\bin\Debug\netcoreapp3.0\RPCClient.runtimeconfig.json
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\bin\Debug\netcoreapp3.0\RPCClient.runtimeconfig.dev.json
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\bin\Debug\netcoreapp3.0\RPCClient.dll
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\bin\Debug\netcoreapp3.0\RPCClient.pdb
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\obj\Debug\netcoreapp3.0\RPCClient.csprojAssemblyReference.cache
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\obj\Debug\netcoreapp3.0\RPCClient.AssemblyInfoInputs.cache
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\obj\Debug\netcoreapp3.0\RPCClient.AssemblyInfo.cs
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\obj\Debug\netcoreapp3.0\RPCClient.csproj.CopyComplete
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\obj\Debug\netcoreapp3.0\RPCClient.dll
+C:\Users\LSH946\source\repos\RabbitMQ\RPCExample\RPCClient\obj\Debug\netcoreapp3.0\RPCClient.pdb

@@ -1,0 +1,13 @@
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\bin\Debug\netcoreapp3.0\EmitLogDirect.exe
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\bin\Debug\netcoreapp3.0\EmitLogDirect.deps.json
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\bin\Debug\netcoreapp3.0\EmitLogDirect.runtimeconfig.json
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\bin\Debug\netcoreapp3.0\EmitLogDirect.runtimeconfig.dev.json
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\bin\Debug\netcoreapp3.0\EmitLogDirect.dll
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\bin\Debug\netcoreapp3.0\EmitLogDirect.pdb
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\obj\Debug\netcoreapp3.0\EmitLogDirect.csprojAssemblyReference.cache
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\obj\Debug\netcoreapp3.0\EmitLogDirect.AssemblyInfoInputs.cache
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\obj\Debug\netcoreapp3.0\EmitLogDirect.AssemblyInfo.cs
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\obj\Debug\netcoreapp3.0\EmitLogDirect.csproj.CopyComplete
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\obj\Debug\netcoreapp3.0\EmitLogDirect.dll
+C:\Users\LSH946\source\repos\RabbitMQ\Routing\EmitLogDirect\obj\Debug\netcoreapp3.0\EmitLogDirect.pdb
